@@ -8,27 +8,27 @@ Click to download the code file required for the course：[Click to download](./
 
 1、Download kidsblock:https://wiki.kidsbits.cc/projects/KidsBlock/en/latest/
 
-![Ani](./media/Ani-1752116928430-3.gif)
+![Ani](./media/A1.gif)
 
 2、software installation
 
-![An](./media/An.gif)
+![An](./media/A2.gif)
 
 3.operating software
 
 First connect the development board to the computer
 
-![A](./media/A.gif)
+![A](./media/A3.gif)
 
 ## 5.3 Software installation of Mac System
 
 1.Download kidsblock:https://xiazai.keyesrobot.cn/KidsBlock.dmg
 
 2.Click KidsBlock, and  drag KidsBlock Desktop into Applications. 
-![Img](media/13.png)
+![Img](media/A4.png)
 
 3.Wait for installing. KidsBlock icon will show up in Launchpad if it is installed successfully.
-![Img](media/14.png)
+![Img](media/A5.png)
 
 
 
@@ -38,85 +38,85 @@ We demonstrate how to use KidsBlock on Windows system
 
 1.Interface
 
-![QQ20250516-104217](media/16.png)
+![QQ20250516-104217](media/A6.png)
 
-2.Click![](media/17.png)to switch to different languages.
+2.Click![](media/A7.png)to switch to different languages.
 
-![](media/18.png)
+![](media/A8.png)
 
-3.Click ![](media/33.png) to enter the main page, select the control board needed. In this project, we select the "**UNO development board**" mainboard and click **Connect,** then it is connected. Click **Go to Editor** to return the code editor.
-Icon ![](media/34.png) will change into![Img](media/35.png) ，and![](media/36.png)will change into ![image-20250516094316842](media/37.png). This means the Uno Plus mainboard and ports（COM)are connected.
+3.Click ![](media/A9.png) to enter the main page, select the control board needed. In this project, we select the "**UNO development board**" mainboard and click **Connect,** then it is connected. Click **Go to Editor** to return the code editor.
+Icon ![](media/A10.png) will change into![Img](media/A11.png) ，and![](media/A12.png)will change into ![image-20250516094316842](media/A13.png). This means the Uno Plus mainboard and ports（COM)are connected.
 
-![image-20250516093857221](media/38.png)
+![image-20250516093857221](media/A14.png)
 
-![image-20250516094005544](media/39.png)
+![image-20250516094005544](media/A15.png)
 
-![image-20250516094026631](media/40.png)
+![image-20250516094026631](media/A16.png)
 
-![image-20250516094244414](media/41.png)
+![image-20250516094244414](media/A17.png)
 
-4.If the Uno Plus mainboard is connected , but ![](media/36.png) icondoesn’t change into ![image-20250516094348761](media/42.png). You need to click ![](media/36.png)to connect the COM port. Click ![](media/36.png) and then click **Connect**. Then you will find a page pop up, showing **Connected**.
+4.If the Uno Plus mainboard is connected , but ![](media/A12.png) icondoesn’t change into ![image-20250516094348761](media/A18.png). You need to click ![](media/A12.png)to connect the COM port. Click ![](media/A12.png) and then click **Connect**. Then you will find a page pop up, showing **Connected**.
 
-![image-20250516094454628](media/43.png)
+![image-20250516094454628](media/A19.png)
 
-![image-20250516094005544](media/39.png)
+![image-20250516094005544](media/A15.png)
 
-![image-20250516094026631](media/40.png)
+![image-20250516094026631](media/A16.png)
 
 
 
-![image-20250516094244414](media/41.png)
+![image-20250516094244414](media/A17.png)
 
-To disconnect the port, just click ![image-20250516094402344](media/44.png) and**Disconnect**.
+To disconnect the port, just click ![image-20250516094402344](media/A20.png) and**Disconnect**.
 
-![image-20250516094608713](media/45.png)
+![image-20250516094608713](media/A21.png)
 
-5.The Uno Plus mainboard and the COM port are connected, then click![](media/46.png) will change into ![](media/47.png).
+5.The Uno Plus mainboard and the COM port are connected, then click![](media/A22.png) will change into ![](media/A23.png).
 
-![image-20250516094638798](media/48.png)
+![image-20250516094638798](media/A24.png)
 
-![image-20250516094700571](media/49.png)
+![image-20250516094700571](media/A25.png)
 
-![QQ20250516-095952](media/50.png)
+![QQ20250516-095952](media/A26.png)
 
-<span style="color: rgb(255, 76, 65);">Note:</span> if you want to update libraries of KidsBlock, click![](media/51.png) then Clear cache and restart.
+<span style="color: rgb(255, 76, 65);">Note:</span> if you want to update libraries of KidsBlock, click![](media/A27.png) then Clear cache and restart.
 
-![](media/52.png)
+![](media/A28.png)
 
-6.![](media/53.png)stands for extension libraries of sensors and modules. Click ![](media/53.png) to enter the page of extension libraries, click a sensor or module to add.
+6.![](media/A29.png)stands for extension libraries of sensors and modules. Click ![](media/A29.png) to enter the page of extension libraries, click a sensor or module to add.
 
-For example, if click the“passive buzzer”module![](media/54.png),“**Not loaded**”will change into “**Loaded**”. Then the passive buzzer is added.
+For example, if click the“passive buzzer”module![](media/A30.png),“**Not loaded**”will change into “**Loaded**”. Then the passive buzzer is added.
 
-![Img](media/55.png)
+![Img](media/A31.png)
 
-![](media/56.png)
+![](media/A32.png)
 
-Click ![](media/57.png) to return the code editor. Then you can view the passive buzzer in the blocks area.
+Click ![](media/A33.png) to return the code editor. Then you can view the passive buzzer in the blocks area.
 
-![](media/58.png)
+![](media/A34.png)
 
-If you want to delete the passive buzzer, click ![](media/53.png) to select the passive buzzer![](media/54.png). Then “**Loaded**” will change into “**Not loaded**”. Then the passive buzzer is deleted.
+If you want to delete the passive buzzer, click ![](media/A29.png) to select the passive buzzer![](media/A30.png). Then “**Loaded**” will change into “**Not loaded**”. Then the passive buzzer is deleted.
 
-![](media/56.png)
+![](media/A32.png)
 
-![](media/59.png)
+![](media/A35.png)
 
 The way of deleting other sensors or modules is as same as the passive buzzer.
 
 7.How to open SB3 type files：
 
-1). Double-click SB3 type files to open them. For instance, open ![image-20250516105019155](media/60.png), then we need to double-click
-![](media/60.png).
+1). Double-click SB3 type files to open them. For instance, open ![image-20250516105019155](media/A36.png), then we need to double-click
+![](media/A36.png).
 
-![image-20250516102748387](media/61.png)
+![image-20250516102748387](media/A37.png)
 
-2). Open Kidsblock，click **file and Load from your computer**，then select the SB3 type file on the computer.（for example: ![](media/60.png)).
+2). Open Kidsblock，click **file and Load from your computer**，then select the SB3 type file on the computer.（for example: ![](media/A36.png)).
 
-![](media/62.png)
+![](media/A38.png)
 
-![image-20250516105121551](media/63.png)
+![image-20250516105121551](media/A39.png)
 
-![image-20250516102748387](media/61.png)
+![image-20250516102748387](media/A37.png)
 
 <span style="color: rgb(255, 76, 65);">Note：Please refer to the following link for MacOS：</span>[https://kidsblocksite.readthedocs.io/en/latest/](https://kidsblocksite.readthedocs.io/en/latest/)
 
@@ -127,7 +127,7 @@ The way of deleting other sensors or modules is as same as the passive buzzer.
 
 **1.Description**
 
-![](media/64.jpeg)
+![](media/A40.jpeg)
 
 For starters and enthusiasts, LED Blink is a fundamental program. LED, the abbreviation of light emitting diodes, consists of Ga, As, P, N chemical compounds and so on.
 
@@ -143,19 +143,19 @@ The LED can flash in diverse color by altering the delay time in the test code. 
 
 - LED display color: red
 
-![](media/65.png)
+![](media/A41.png)
 
 **3.Components**
 
 | Development Board *1      | 8833 Motor Driver *1      | Red LED Module*1          |
 | ------------------------- | ------------------------- | ------------------------- |
-| ![img](media/66.jpg) | ![img](media/67.jpg) | ![img](media/68.jpg) |
+| ![img](media/A42.jpg) | ![img](media/A43.jpg) | ![img](media/A44.jpg) |
 | 3P F-F Dupont Wire*1      | USB Cable*1               |                           |
-| ![img](media/69.jpg) | ![img](media/70.jpg) |                           |
+| ![img](media/A45.jpg) | ![img](media/A46.jpg) |                           |
 
 **4.Wiring Diagram**
 
-![](media/71.png)
+![](media/A47.png)
 
 As can be seen from the above figure, the Keyestudio 8833 motor driver expansion board is stacked on the Keyestudio 4.0 development board.
 
@@ -165,15 +165,15 @@ The pin G, V and S of the LED module are connected to G, 5V and D9 of the expans
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/72.png)
+(1).![](media/A48.png)
 
-(2).![](media/73.png)
+(2).![](media/A49.png)
 
-(3).![](media/74.png)
+(3).![](media/A50.png)
 
 **Complete Test Code**
 
-![](media/75.png)
+![](media/A51.png)
 
 **6.Test Result**
 
@@ -183,7 +183,7 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 Next, we look to change the frequency of LED flicker by changing the wait time.
 
-![](media/76.png)
+![](media/A52.png)
 
 After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, and use a USB cable to connect the computer to power the board. The test result shows that the LED flashes faster.
 
@@ -200,7 +200,7 @@ PWM is a means of controlling the analog output via digital means. Digital contr
 
 What if the 3V is required? Or a switch among 1V, 3V and 3.5V? We cannot change resistors constantly. For this reason, we resort to PWM.
 
-![](media/77.gif)
+![](media/A53.gif)
 
 For the Arduino digital port voltage output, there are only LOW and HIGH, which correspond to the voltage output of 0V and 5V. You can define LOW as 0 and HIGH as 1, and let the Arduino output five hundred 0 or 1 signals within 1s.
 
@@ -208,7 +208,7 @@ If all of the output five hundred are 1, that is 5V; if all of which are 0, that
 
 PWM is a technology that uses digital methods to obtain analog quantities. Digital control enables to form a square wave, the square wave signal only has on and off two states (high and low).  A voltage ranging from 0 to 5V can be simulated by controlling the ratio of on to off duration.  The time spent on (technically called high level) is called pulse width, so PWM is also called pulse width modulation. 
 
-![](media/78.png)
+![](media/A54.png)
 
 The green vertical bars represent one period of the square wave.  The value written in each analogWrite(value) corresponds to a percentage,
 which is also called Duty Cycle. This percentage refers to the ratio of time occupied by the high level in a cycle, that is, duty cycle = high level time/cycle time. 
@@ -222,35 +222,35 @@ PWM is more used to adjust the brightness of LED lights or the rotation speed of
 
 | Development Board *1      | 8833 Motor Driver *1      | Red LED Module*1          |
 | ------------------------- | ------------------------- | ------------------------- |
-| ![img](media/66.jpg) | ![img](media/67.jpg) | ![img](media/68.jpg) |
+| ![img](media/A42.jpg) | ![img](media/A43.jpg) | ![img](media/A44.jpg) |
 | 3P F-F Dupont Wire*1      | USB Cable*1               |                           |
-| ![img](media/69.jpg) | ![img](media/70.jpg) |                           |
+| ![img](media/A45.jpg) | ![img](media/A46.jpg) |                           |
 
 **3.Wiring Diagram** 
 
 Keep the wiring-up unchanged.
 
-![](media/71.png)
+![](media/A47.png)
 
 **4.Test Code**
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/79.png)
+(1).![](media/A55.png)
 
-(2).![](media/80.png)
+(2).![](media/A56.png)
 
-(3).![](media/81.png)
+(3).![](media/A57.png)
 
-(4).![](media/82.png)
+(4).![](media/A58.png)
 
-(5).![](media/83.png)
+(5).![](media/A59.png)
 
-(6).![](media/84.png)
+(6).![](media/A60.png)
 
 **Complete Test Code**
 
-![](media/85.png)
+![](media/A61.png)
 
 **5.Test Result**
 
@@ -260,14 +260,14 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 Keep pins of the LED unchanged, then change code(values behind wait)
 
-![](media/86.png)
+![](media/A62.png)
 
 Upload the code to the development board, then the LED will blink more slowly.
 
 
 ### Project 3: Line Tracking Sensor
 
-![](media/87.png)
+![](media/A63.png)
 
 **1.Description** 
 
@@ -289,7 +289,7 @@ By rotating the adjustable potentiometer on the sensor, it can adjust the detect
 
 - Detection Height: 0-3 cm
 
-![](media/88.jpeg)
+![](media/A64.jpeg)
 
 <span style="color: rgb(255, 76, 65);">Note:</span> Before testing, rotate the potentiometer on the sensor to adjust the detection sensitivity. The sensitivity is best when adjusting the LED to a threshold between ON and OFF. 
 
@@ -297,13 +297,13 @@ By rotating the adjustable potentiometer on the sensor, it can adjust the detect
 
 | Development Board *1     | 8833 Motor Driver *1     | Red LED Module*1         | Line Tracking Sensor*1   |
 | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
-| ![img](media/89.jpg) | ![img](media/90.jpg) | ![img](media/91.jpg) | ![img](media/92.png) |
+| ![img](media/A65.jpg) | ![img](media/A66.jpg) | ![img](media/A67.jpg) | ![img](media/A68.png) |
 | 5P Dupont Wire*1         | USB Cable*1              | 3P  Dupont Wire*1        |                          |
-| ![img](media/93.png) | ![img](media/94.jpg) | ![img](media/95.jpg) |                          |
+| ![img](media/A69.png) | ![img](media/A70.jpg) | ![img](media/A71.jpg) |                          |
 
 **4.Wiring Diagram**
 
-![](media/96.png)
+![](media/A72.png)
 
 G, V, S1, S2 and S3 of the line tracking sensor are connected to G（GND), V（VCC), D11, D7 and D8 of the sensor expansion board.
 
@@ -311,59 +311,59 @@ G, V, S1, S2 and S3 of the line tracking sensor are connected to G（GND), V（V
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/97.png)
+(1).![](media/A73.png)
 
-(2).![](media/98.png)
+(2).![](media/A74.png)
 
-(3).![](media/99.png)
+(3).![](media/A75.png)
 
-(4).![](media/100.png)
+(4).![](media/A76.png)
 
-(5).![](media/101.png)
+(5).![](media/A77.png)
 
 **Complete Test Code**
 
-![](media/102.png)
+![](media/A78.png)
 
-![](media/103.png)
+![](media/A79.png)
 
 **6.Test Result**
 
 After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, and use a USB cable to connect the computer to power the board.
 
-After powering on, click![](media/104.png)to set the baud rate to 9600 and you will view status of three line tracking sensors. When no signals are received, the value is 1. If we cover the sensor with a white paper, the value will be 0.
+After powering on, click![](media/A80.png)to set the baud rate to 9600 and you will view status of three line tracking sensors. When no signals are received, the value is 1. If we cover the sensor with a white paper, the value will be 0.
 
-![](media/105.png)
+![](media/A81.png)
 
-![](media/106.png)
+![](media/A82.png)
 
 **7.Extension Practice**
 
 After knowing its working principle, you can connect an LED to D9 so as to control LED by it.
 
-![](media/107.png)
+![](media/A83.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/97.png)
+(1).![](media/A73.png)
 
-(2).![](media/98.png)
+(2).![](media/A74.png)
 
-(3).![](media/108.png)
+(3).![](media/A84.png)
 
-(4).![](media/109.png)
+(4).![](media/A85.png)
 
-(5).![](media/101.png)
+(5).![](media/A77.png)
 
-(6).![](media/110.png)
+(6).![](media/A86.png)
 
-(7).![](media/111.png)
+(7).![](media/A87.png)
 
 **Complete Test Code**
 
-![](media/112.png)
+![](media/A88.png)
 
-![](media/113.png)
+![](media/A89.png)
 
 After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, and use a USB cable to connect the computer to power the board.
 
@@ -374,21 +374,21 @@ After powering on, make a paper close to the sensor, then we can find the LED li
 
 **1.Description**
 
-![](media/114.jpeg)
+![](media/A90.jpeg)
 
 Servo motor is a position control rotary actuator. It mainly consists of a housing, a circuit board, a core-less motor, a gear and a position sensor. Its working principle is that the servo receives the signal sent by MCUs or receivers and produces a reference signal with a period of 20ms and width of 1.5ms, then compares the acquired DC bias voltage to the voltage of the potentiometer and obtain the voltage difference output.
 
-![](media/115.png)
+![](media/A91.png)
 
 In general, servo has three lines in brown, red and orange. The brown wire is grounded, the red one is a positive pole line and the orange one is a signal line.
 
 The rotation angle of servo motor is controlled by regulating the duty cycle of PWM (Pulse-Width Modulation) signal. The standard cycle of PWM signal is 20ms (50Hz). Theoretically, the width is distributed between 1ms-2ms, but in fact, it's between 0.5ms-2.5ms. The width corresponds the rotation angle from 0° to 180°. But note that for different brand motors, the same signal may have different rotation angles. 
 
-![](media/116.jpg)
+![](media/A92.jpg)
 
 The corresponding servo angles are shown below:
 
-![](media/117.png)
+![](media/A93.png)
 
 **2.Specification**
 
@@ -412,13 +412,13 @@ The corresponding servo angles are shown below:
 
 | Development Board *1      | 8833 Motor Driver *1      | Servo*1                                     |
 | ------------------------- | ------------------------- | ------------------------------------------- |
-| ![img](media/118.jpg)  | ![img](media/119.jpg)  | ![img](media/120.png)                   |
+| ![img](media/A94.jpg)  | ![img](media/A95.jpg)  | ![img](media/A96.png)                   |
 | 18650 Battery Holder*1    | USB Cable*1               | 18650 Battery*2（self-provided）            |
-| ![img](media/121.png) | ![img](media/122.jpg) | ![img](media/123.png) |
+| ![img](media/A97.png) | ![img](media/A98.jpg) | ![img](media/A99.png) |
 
 **4.Wiring Diagram**
 
-![](media/124.png)
+![](media/A100.png)
 
 Wiring note: The servo is connected to G（GND）、V（VCC）and A3, the brown line of servo is linked with Gnd(G), the red one is connected to 5v(V) and the orange one is attached to A3.
 
@@ -428,30 +428,30 @@ The servo is obliged to connect to the external power due to its high demand for
 
 Before writing the code, it is necessary to import the servo library file. The specific steps are as follows: 
 
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then look for "**Servo**".
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then look for "**Servo**".
 
-![](media/125.png)
+![](media/A101.png)
 component and click it. In this way, "**Not Loaded**" changes to "**loaded**", indicating that "**Servo**" component was added successfully. 
 
-![Img](media/126.png)
+![Img](media/A102.png)
 
-![](media/127.png)
+![](media/A103.png)
 
-Click ![](media/57.png)to go back to the code editor, and in the modules area you can see the "**Servo**" component directive block added. 
+Click ![](media/A33.png)to go back to the code editor, and in the modules area you can see the "**Servo**" component directive block added. 
 
-![](media/128.png)
+![](media/A104.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/129.png)
+(1).![](media/A105.png)
 
-(2).![](media/130.png)
+(2).![](media/A106.png)
 
-(3).![](media/131.png)
+(3).![](media/A107.png)
 
 **Complete Test Code**
 
-![](media/132.png)
+![](media/A108.png)
 
 **6.Test Result**
 
@@ -461,11 +461,11 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 **1.Description**
 
-![](media/133.png)
+![](media/A109.png)
 
 The HC-SR04 ultrasonic sensor uses sonar to determine distance to an object like what bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package. It comes complete with an ultrasonic transmitter and receiver modules.
 
-![Img](media/134.png)
+![Img](media/A110.png)
 
 The HC-SR04 or the ultrasonic sensor is being used in a wide range of electronics projects for creating obstacle detection and distance measuring application as well as various other applications. Here we have brought the simple method to measure the distance with arduino and an ultrasonic sensor and how to use the ultrasonic sensor with Arduino.
 
@@ -487,15 +487,15 @@ The HC-SR04 or the ultrasonic sensor is being used in a wide range of electronic
 
 - Trigger Input Pulse width: 10uS
 
-![](media/135.png)
+![](media/A111.png)
 
 **3.Components**
 
 | Development Board *1      | 8833 Motor Driver *1      | Red LED Module*1          | Ultrasonic Sensor*1       |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
-| ![img](media/136.jpg) | ![img](media/137.jpg) | ![img](media/138.jpg) | ![img](media/139.jpg) |
+| ![img](media/A112.jpg) | ![img](media/A113.jpg) | ![img](media/A114.jpg) | ![img](media/A115.jpg) |
 | 4P Dupont Wire*1          | USB Cable*1               | 3P Dupont Wire*1          |                           |
-| ![img](media/140.jpg) | ![img](media/141.jpg) | ![img](media/142.jpg) |                           |
+| ![img](media/A116.jpg) | ![img](media/A117.jpg) | ![img](media/A118.jpg) |                           |
 
 **4.Working Principle**
 
@@ -513,16 +513,16 @@ The t is the time that emitting signal meets obstacle and returns. And the propa
 
 3).If the signal returns, the Echo pin will output a high level, and the duration of the high level is the time from the transmission of the ultrasonic wave to the return.
 
-![image-20250509143833078](media/143.png)
+![image-20250509143833078](media/A119.png)
 
 
 **Circuit diagram of ultrasonic sensor:**
 
-![](media/144.jpeg)
+![](media/A120.jpeg)
 
 **5.Wiring Diagram**
 
-![](media/145.png)
+![](media/A121.png)
 
 VCC, Trig, Echo and Gnd of the ultrasonic sensor are connected to 5V(V), D12, D13 and Gnd(G)
 
@@ -530,83 +530,83 @@ VCC, Trig, Echo and Gnd of the ultrasonic sensor are connected to 5V(V), D12, D1
 
 Before writing the code, it is necessary to import the library file of the ultrasonic sensor. The specific steps are as follows: 
 
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for "**Ultrasonic**" sensor ![](media/146.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that "**Ultrasonic**" sensor was added successfully. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for "**Ultrasonic**" sensor ![](media/A122.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that "**Ultrasonic**" sensor was added successfully. 
 
-![Img](media/147.png)
+![Img](media/A123.png)
 
-![](media/148.png)
+![](media/A124.png)
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added "**Ultrasonic**" sensor can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added "**Ultrasonic**" sensor can be seen in the module area. 
 
-![](media/149.png)
+![](media/A125.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-（1).![](media/150.png)
+（1).![](media/A126.png)
 
-(2).![](media/151.png)
+(2).![](media/A127.png)
 
-(3).![](media/152.png)
+(3).![](media/A128.png)
 
-(4).![](media/153.png)
+(4).![](media/A129.png)
 
-(5).![](media/154.png)
+(5).![](media/A130.png)
 
-(6).![](media/155.png)
+(6).![](media/A131.png)
 
-(7).![](media/156.png)
+(7).![](media/A132.png)
 
 **Complete Test Code**
 
-![](media/157.png)
+![](media/A133.png)
 
 **7.Test Result**
 
-After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then connect the computer via a USB cable to power the board. After powering on, click ![](media/104.png)to set baud rate to 9600.
+After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then connect the computer via a USB cable to power the board. After powering on, click ![](media/A80.png)to set baud rate to 9600.
 
 The detected distance will be displayed, and the unit is cm and inch. Hinder the ultrasonic sensor by hand, the displayed distance value gets smaller.
 
-![](media/158.png)
+![](media/A134.png)
 
 **8.Extension Practice**
 
 We have just measured the distance displayed by the ultrasonic. How about controlling the LED with the measured distance? Let's try it and connect an LED light module to the D9 pin.
 
-![](media/159.png)
+![](media/A135.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/160.png)
+(2).![](media/A136.png)
 
-(3).![](media/152.png)
+(3).![](media/A128.png)
 
-(4).![](media/161.png)
+(4).![](media/A137.png)
 
-(5).![](media/154.png)
+(5).![](media/A130.png)
 
-(6).![](media/162.png)
+(6).![](media/A138.png)
 
-(7).![](media/156.png)
+(7).![](media/A132.png)
 
 **Complete Test Code**
 
-![](media/163.png)
+![](media/A139.png)
 
-![](media/164.png)
+![](media/A140.png)
 
 After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then connect the computer via a USB cable to power the board. After powering on, block the ultrasonic sensor by hand(the distance is between 2-10cm), then check if the LED is on.
 
 ### Project 6 IR Reception
 
-![](media/165.png)
+![](media/A141.png)
 
 **1.Description** 
 
 There is no doubt that infrared remote control is ubiquitous in daily life. It is used to control various household appliances, such as TVs, stereos, video recorders and satellite signal receivers. Infrared remote control is composed of infrared transmitting and infrared receiving systems, that is, an infrared remote control and infrared receiving module and a single-chip microcomputer capable of decoding.  
 
-![](media/166.png)
+![](media/A142.png)
 
 The 38K infrared carrier signal emitted by remote controller is encoded by the encoding chip in the remote controller. It is composed of a section of pilot code, user code, user inverse code, data code, and data inverse code. The time interval of the pulse is used to distinguish whether it is 0 or 1 signal and the encoding is made up of these 0, 1 signals.
 
@@ -632,60 +632,62 @@ Additionally, it is suitable for infrared remote control and infrared data trans
 
 The picture shows the real product and circuit diagram of the infrared receiver.
 
-![](media/165.png)
+![](media/A141.png)
 
-![](media/167.png)
+![](media/A143.png)
 
 **3.Components**
 
 | Development Board *1      | 8833 Motor Driver *1      | Red LED Module*1          |
 | ------------------------- | ------------------------- | ------------------------- |
-| ![img](media/66.jpg) | ![img](media/67.jpg) | ![img](media/68.jpg) |
+| ![img](media/A42.jpg) | ![img](media/A43.jpg) | ![img](media/A44.jpg) |
 | 3P F-F Dupont Wire*1      | USB Cable*1               |                           |
-| ![img](media/69.jpg) | ![img](media/70.jpg) |                           |
+| ![img](media/A45.jpg) | ![img](media/A46.jpg) |                           |
 
 
 Since the 8833 board integrates with the IR receiver, it doesn’t need wiring up. Pins of IR receiver module are G(GND）, V（VCC）and D3.
 
 **4.Test Code**
 
+<span style="color: rgb(255, 76, 65);">Please note: The infrared module shown in the software demonstration is already integrated into the expansion board and is not supplied separately. Consequently, you will not find the module depicted in the image below within the product.![](media/A144.png)</span>
+
 Before writing the code, it is necessary to import the library file of the IR receiver sensor. The specific steps are as follows: 
 
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for“**ir remote**” sensor![](media/168.png) and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that ir remote”sensor was added successfully. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for“**ir remote**” sensor![](media/A144.png) and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that ir remote”sensor was added successfully. 
 
-![Img](media/169.png)
+![Img](media/A145.png)
 
-![](media/170.png)
+![](media/A146.png)
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added “**ir remote**”sensor can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added “**ir remote**”sensor can be seen in the module area. 
 
-![](media/171.png)
+![](media/A147.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/172.png)
+(2).![](media/A148.png)
 
-(3).![](media/173.png)
+(3).![](media/A149.png)
 
-(4).![](media/174.png)
+(4).![](media/A150.png)
 
 **Complete Test Code**
 
-![](media/175.png)
+![](media/A151.png)
 
 **5.Test Result**
 
-After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then connect the computer via a USB cable to power the board. After powering on, click ![](media/104.png)to set baud rate to 9600.
+After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then connect the computer via a USB cable to power the board. After powering on, click ![](media/A80.png)to set baud rate to 9600.
 
 Take out the remote control, and send signal to the infrared receiver sensor. You can see the key value of the corresponding key, if the key time is too long, FFFFFFFF is prone to garbled characters.
 
-![](media/176.png)
+![](media/A152.png)
 
 The keys value of remote control are shown below.
 
-![](media/177.jpeg)
+![](media/A153.jpeg)
 
 **6.Extension Practice**
 
@@ -693,35 +695,35 @@ We have decoded the key value of the IR remote control. How about controlling LE
 
 Attach an LED to D9, then press the keys of remote control to make LED light on and off.
 
-![](media/178.png)
+![](media/A154.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/172.png)
+(2).![](media/A148.png)
 
-(3).![](media/179.png)
+(3).![](media/A155.png)
 
-(4).![](media/174.png)
+(4).![](media/A150.png)
 
-(5).![](media/180.png)
+(5).![](media/A156.png)
 
-(6).![](media/181.png)
+(6).![](media/A157.png)
 
-(7).![](media/182.png)
+(7).![](media/A158.png)
 
-(8).![](media/183.png)
+(8).![](media/A159.png)
 
 **Complete Test Code**
 
-![](media/184.png)
+![](media/A160.png)
 
 After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then connect the computer via a USB cable to power the board. After powering on, press the "**OK**" key on remote control can make the LED on and off.
 
 ### Project 7 Bluetooth Remote Control
 
-![](media/185.png)
+![](media/A161.png)
 
 **1.Description**
 
@@ -772,7 +774,7 @@ The DX-BT24 module also supports the BT5.1 BLE protocol, which can be directly c
 
 **Ports**
 
-![](media/186.png)
+![](media/A162.png)
 
 ①STATE：Status pin
 
@@ -818,13 +820,13 @@ Connect the BT module to the development board.
 
 | Development Board *1      | 8833 Motor Driver *1      | Red LED Module*1           |
 | ------------------------- | ------------------------- | -------------------------- |
-| ![img](media/187.jpg) | ![img](media/188.jpg) | ![img](media/189.jpg)  |
+| ![img](media/A163.jpg) | ![img](media/A164.jpg) | ![img](media/A165.jpg)  |
 | 3P F-F Dupont Wire*1      | USB Cable*1               | DX-BT24 Bluetooth Module*1 |
-| ![img](media/190.jpg) | ![img](media/191.jpg) | ![img](media/192.jpg)  |
+| ![img](media/A166.jpg) | ![img](media/A167.jpg) | ![img](media/A168.jpg)  |
 
 **5.Wiring Diagram**
 
-![](media/193.png)
+![](media/A169.png)
 
 RXD, TXD, GND and VCC of the BT module are connected to TX, RX, G and 5V.
 
@@ -836,21 +838,21 @@ STATE and BRK of the BT module don’t need connection.
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/194.png)
+(2).![](media/A170.png)
 
-(3).![](media/195.png)
+(3).![](media/A171.png)
 
-(4).![](media/196.png)
+(4).![](media/A172.png)
 
-(5).![](media/197.png)
+(5).![](media/A173.png)
 
 **Complete Test Code**
 
 <span style="color: rgb(255, 76, 65);">**Note:** Before uploading the test code, you need to remove the Bluetooth module, otherwise the code will fail to be uploaded.Connect the Bluetooth module after uploading the code successfully.</span>
 
-![](media/198.png)
+![](media/A174.png)
 
 **7.Test Result**
 
@@ -864,95 +866,95 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 (2).Search keyes BT car and download the APP to your phone.
 
-![](media/199.png)
+![](media/A175.png)
     
 
 (3).After installation, enter its interface.
 
-![](media/200.png)
+![](media/A176.png)
     
 
-(4).Click "**Connect**" button in the upper left corner to automatically search for Bluetooth. When **BT24** is found, click "**Connect**" to connect Bluetooth, and then click ![](media/201.png)to enter the control interface of 4WD smart car. 
+(4).Click "**Connect**" button in the upper left corner to automatically search for Bluetooth. When **BT24** is found, click "**Connect**" to connect Bluetooth, and then click ![](media/A177.png)to enter the control interface of 4WD smart car. 
 
-![](media/202.png)
+![](media/A178.png)
     
 **Android System**
     
 
 (1).Enter google play store to search for“**keyes 4wd**”.
 
-![](media/203.png)
+![](media/A179.png)
 
 (2).The app icon is shown below after installation.
 
-![](media/204.png)
+![](media/A180.png)
 
 (3).Click app to enter the following page.
 
-![](media/205.png)
+![](media/A181.png)
 
 (4).After connecting Bluetooth, plug in power and LED indicator of Bluetooth module will flicker. Tap“Connect”to search the Bluetooth.
 
-![](media/206.jpeg)
+![](media/A182.jpeg)
 
 (5).When **BT24** is found, click "**connect**" to connect Bluetooth. When "**connect**" turns into "**is connected**", it indicates that the Bluetooth connection is successful. As shown in the picture below, the Bluetooth LED becomes will stay on.
 
-![](media/207.jpeg)
+![](media/A183.jpeg)
 
-(6).After connecting Bluetooth module, click ![](media/104.png)to set baud rate to 9600. Pressing the button of the Bluetooth APP, and the corresponding characters will be displayed, as shown below:
+(6).After connecting Bluetooth module, click ![](media/A80.png)to set baud rate to 9600. Pressing the button of the Bluetooth APP, and the corresponding characters will be displayed, as shown below:
 
-![](media/208.png)
+![](media/A184.png)
 
 | Key                                          | Function                          |
 | -------------------------------------------- | --------------------------------- |
-| ![wps14](media/209.jpg)                  | Pair DX-BT24 5.1 Bluetooth module |
-| ![wps15](media/210.jpg) | Disconnect Bluetooth              |
+| ![wps14](media/A185.jpg)                  | Pair DX-BT24 5.1 Bluetooth module |
+| ![wps15](media/A186.jpg) | Disconnect Bluetooth              |
 
 |                                                              | Control character                                            | Function                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![wps16](media/211.jpg)                 | Press: F  <br />Release: S                                   | Press the button, the car  goes front; <br />release to stop |
-| ![wps17](media/212.jpg)                 | Press: L  <br />Release: S                                   | Press the button, the car turns left; <br />release to stop  |
-| ![wps18](media/213.jpg)                 | Press: R  <br />Release: S                                   | Press the button, the car turns right; <br />release to stop |
-| ![wps19](media/214.jpg)                 | Press: B  <br />Release: S                                   | Press the button, the car goes back; <br />release to stop   |
-| ![wps20](media/215.jpg)                 | Press: “a”  <br />Release: “S”                               | Click to speed up(maximum:255)                               |
-| ![wps21](media/216.jpg)                 | Press: “d”  <br />Release: “S”                               | Click to slow down(minimum:0)                                |
-| ![wps22](media/217.jpg)                 | Click to start the gravity <br />sensing function of the <br />mobile phone: click again to <br />exit the gravity sensing control |                                                              |
-| ![wps23](media/218.jpg)                 | Click to send“X”,<br /> click again to send“S”               | Start line tracking function; <br />click again to exit      |
-| ![wps24](media/219.jpg)                 | Click to send“Y”, <br />click again to send“S”               | Start ultrasonic avoiding function;<br /> click again to exit |
-| ![wps25](media/220.jpg) | Click to send“U”, <br />click again to send“S”               | Start ultrasonic follow function;<br /> click  again to exit |
-| ![wps26](media/221.jpg)                 | Click to send“G”,<br />click again to send“S”                | Start restricting function;<br /> click  again to exit       |
+| ![wps16](media/A187.jpg)                 | Press: F  <br />Release: S                                   | Press the button, the car  goes front; <br />release to stop |
+| ![wps17](media/A188.jpg)                 | Press: L  <br />Release: S                                   | Press the button, the car turns left; <br />release to stop  |
+| ![wps18](media/A189.jpg)                 | Press: R  <br />Release: S                                   | Press the button, the car turns right; <br />release to stop |
+| ![wps19](media/A190.jpg)                 | Press: B  <br />Release: S                                   | Press the button, the car goes back; <br />release to stop   |
+| ![wps20](media/A191.jpg)                 | Press: “a”  <br />Release: “S”                               | Click to speed up(maximum:255)                               |
+| ![wps21](media/A192.jpg)                 | Press: “d”  <br />Release: “S”                               | Click to slow down(minimum:0)                                |
+| ![wps22](media/A193.jpg)                 | Click to start the gravity <br />sensing function of the <br />mobile phone: click again to <br />exit the gravity sensing control |                                                              |
+| ![wps23](media/A194.jpg)                 | Click to send“X”,<br /> click again to send“S”               | Start line tracking function; <br />click again to exit      |
+| ![wps24](media/A195.jpg)                 | Click to send“Y”, <br />click again to send“S”               | Start ultrasonic avoiding function;<br /> click again to exit |
+| ![wps25](media/A196.jpg) | Click to send“U”, <br />click again to send“S”               | Start ultrasonic follow function;<br /> click  again to exit |
+| ![wps26](media/A197.jpg)                 | Click to send“G”,<br />click again to send“S”                | Start restricting function;<br /> click  again to exit       |
 
 **9.Extension Practice**
 
 Here we look to use the command sent by the mobile phone to turn on or off an LED light. Looking at the wiring diagram, an LED is connected to the D9 pin.
 
-![](media/222.png)
+![](media/A198.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/194.png)
+(2).![](media/A170.png)
 
-(3).![](media/195.png)
+(3).![](media/A171.png)
 
-(4).![](media/223.png)
+(4).![](media/A199.png)
 
-(5).![](media/197.png)
+(5).![](media/A173.png)
 
-(6).![](media/224.png)
+(6).![](media/A200.png)
 
-(7).![](media/225.png)
+(7).![](media/A201.png)
 
 **Complete Test Code**
 
-![](media/226.png)
+![](media/A202.png)
 
-After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then connect the computer via a USB cable to power the board. After powering on, click<td>![](media/227.png)</td> and <td>![](media/228.png)</td> to control the LED turn on and turn off.
+After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then connect the computer via a USB cable to power the board. After powering on, click<td>![](media/A203.png)</td> and <td>![](media/A204.png)</td> to control the LED turn on and turn off.
 
 ### Project 8 Motor Driving and Speed Control
 
-![](media/229.png)
+![](media/A205.png)
 
 **1.Description**
 
@@ -984,7 +986,7 @@ For example, when the 2 jumper caps in front of B1 of the M1 motor change from t
 
 **3.Keyestudio 8833 motor driver expansion board**
 
-![](media/230.png)
+![](media/A206.png)
 
 **Working Principle**
 
@@ -994,7 +996,7 @@ The motors in the same group should rotate in the same direction. If they are di
 
 As shown below, if the directions of A and A1 are different, adjust the direction of jumper caps until the motor movement direction of the same group is consistent. 
 
-![](media/231.png)
+![](media/A207.png)
 
 From the above diagram, it is known that the direction pin of A motor is D4, the speed pin is D6; D2 is the direction pin of B motor; and D6 is speed pin.
 
@@ -1055,15 +1057,15 @@ PWM drives the robot car. The PWM value is in the range of 0-255. When we set th
 
 | Development Board *1      | 8833 Motor Driver *1      | USB Cable*1                       |
 | ------------------------- | ------------------------- | --------------------------------- |
-| ![img](media/232.jpg) | ![img](media/233.jpg) | ![img](media/234.jpg)         |
+| ![img](media/A208.jpg) | ![img](media/A209.jpg) | ![img](media/A210.jpg)         |
 | 18650 Battery Holder*1    | Motor*4                   | 18650 Battery *2（self-provided） |
-| ![img](media/235.png) | ![img](media/236.jpg) | ![img](media/237.png)         |
+| ![img](media/A211.png) | ![img](media/A212.jpg) | ![img](media/A213.png)         |
 
 
 
 **5.Wiring Diagram**
 
-![](media/238.png)
+![](media/A214.png)
 
 Connect the power supply to the BAT port.
 
@@ -1071,17 +1073,17 @@ Connect the power supply to the BAT port.
 
 You can drag blocks to edit. Blocks listed below are for your reference
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/239.png)
+(2).![](media/A215.png)
 
-(3).![](media/240.png)
+(3).![](media/A216.png)
 
 **Complete Test Code**
 
-![Img](media/241.png)
+![Img](media/A217.png)
 
-![](media/242.png)
+![](media/A218.png)
 
 **7.Test Result**
 
@@ -1093,9 +1095,9 @@ Adjust the speed that PWM controls the motor, hook up in the same way.
 
 **Complete Test Code**
 
-![Img](media/243.png)
+![Img](media/A219.png)
 
-![](media/244.png)
+![](media/A220.png)
 
 After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then power on the external power and turn the DIP switch to ON, then you find the speed of the motor is much slower.
 
@@ -1103,7 +1105,7 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 ### Project 9 Facial Expression LED Board
 
-![](media/245.png)
+![](media/A221.png)
 
 **1.Description** 
 
@@ -1128,7 +1130,7 @@ The 8\*16 LED board comes with 128 LEDs. The data of the microprocessor(Arduino)
 
 **3.Circuit Diagram**
 
-![](media/246.png)
+![](media/A222.png)
 
 **4.Working Principle**
 
@@ -1140,7 +1142,7 @@ The data of the microprocessor (Arduino) communicates with the AiP1640 through a
 
 The communication protocol diagram is as follows (SCLK) is SCL, (DIN) is SDA.
 
-![](media/247.png)
+![](media/A223.png)
 
 ①The starting condition for data input: SCL is high level and SDA changes from high to low.
 
@@ -1148,13 +1150,13 @@ The communication protocol diagram is as follows (SCLK) is SCL, (DIN) is SDA.
 
 In our sample program, select the way to **add 1 to the address automatically**, the binary value is 0100 0000 and the corresponding hexadecimal value is 0x40.
 
-![Img](media/248.png)
+![Img](media/A224.png)
 
 ③For address command setting, the address can be selected as shown below.
 
 The first 00H is selected in our sample program, and the binary number 1100 0000 corresponds to the hexadecimal 0xc0.
 
-![Img](media/249.png)
+![Img](media/A225.png)
 
 ④The requirement for data input is that when SCL is at high level when inputting data, the signal on SDA must remain unchanged. Only when the clock signal on SCL is at low level, can the signal on SDA be changed. The input of data is the low bit first, and the high bit later.
 
@@ -1164,7 +1166,7 @@ The first 00H is selected in our sample program, and the binary number 1100 0000
 
 In the example, the pulse width is 4/16, and the hexadecimal corresponding to 1000 1010 is 0x8A.
 
-![Img](media/250.png)
+![Img](media/A226.png)
 
 **Instructions for the use of modulus tool**
 
@@ -1172,31 +1174,31 @@ The dot matrix tool uses the online version, and the link is :[http://dotmatrixt
 
 ①Enter the link and the page appears as shown below
 
-![](media/251.png)
+![](media/A227.png)
 
 ②The dot matrix is 8\*16, so adjust the height to 8 and width to 16, as shown in the figure below.
 
-![](media/252.png)
+![](media/A228.png)
 
 ③Generate hexadecimal data from the pattern
 
 As shown in the figure below, press the left mouse button to select, right click to cancel; draw the pattern you want, click Generate, and the hexadecimal data we need will be generated.
 
-![](media/253.png)
+![](media/A229.png)
 
 **6.Components**
 
 | Development Board *1      | 8833 Motor Driver *1            | 8x16 LED Panel*1          |
 | ------------------------- | ------------------------------- | ------------------------- |
-| ![img](media/254.jpg) | ![img](media/255.jpg)       | ![img](media/256.jpg) |
+| ![img](media/A230.jpg) | ![img](media/A231.jpg)       | ![img](media/A232.jpg) |
 | USB Cable*1               | HX-2.54 4P Dupont Wire 200mm *1 |                           |
-| ![img](media/257.jpg) | ![img](media/258.jpg)       |                           |
+| ![img](media/A233.jpg) | ![img](media/A234.jpg)       |                           |
 
 
 
 **7.Wiring Diagram**
 
-![](media/259.png)
+![](media/A235.png)
 
 The GND, VCC, SDA, and SCL of the 8x16 LED light board are respectively connected to the keyestudio sensor expansion board-(GND), + (VCC), A4, A5 for two-wire serial communication.
 
@@ -1206,80 +1208,80 @@ The GND, VCC, SDA, and SCL of the 8x16 LED light board are respectively connecte
 
 Before writing the code, it is necessary to import the library file of the 8x16 LED board. The specific steps are as follows: 
 
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for“**Matrix 8\*16 Aip1640**”module ![](media/260.png) and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that“**Matrix 8\*16 Aip1640**”module was added successfully. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for“**Matrix 8\*16 Aip1640**”module ![](media/A236.png) and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that“**Matrix 8\*16 Aip1640**”module was added successfully. 
 
-![Img](media/261.png)
+![Img](media/A237.png)
 
-![](media/262.png)
+![](media/A238.png)
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added “**Matrix 8\*16 Aip1640**”module can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added “**Matrix 8\*16 Aip1640**”module can be seen in the module area. 
 
-![](media/263.png)
+![](media/A239.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/264.png)
+(2).![](media/A240.png)
 
 **Complete Test Code**
 
-![](media/265.png)
+![](media/A241.png)
 
 **9.Test Result**
 
 After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, then turn the DIP switch to ON, a smile-shaped pattern will be displayed on the LED board.
 
-![](media/266.png)
+![](media/A242.png)
 
 **10.Code Explanation**
 
 We use the modulus tool we just learned, [http://dotmatrixtool.com/\#](http://dotmatrixtool.com/\#), to make the dot matrix display the start pattern, going forward, and stop and then clear the pattern. The time interval is 2000 ms.
 
-![image-20250513092102687](media/267.png)![image-20250513092107293](media/268.png)![image-20250513092113035](media/269.png)![image-20250513092116952](media/270.png)
+![image-20250513092102687](media/A243.png)![image-20250513092107293](media/A244.png)![image-20250513092113035](media/A245.png)![image-20250513092116952](media/A246.png)
 
 
-Instruction block for smiley face![](media/271.png)
+Instruction block for smiley face![](media/A247.png)
 
-Instruction block for expression：![](media/272.png)
+Instruction block for expression：![](media/A248.png)
 
-Instruction block for heart ![](media/273.png)
+Instruction block for heart ![](media/A249.png)
 
-Instruction block for going forward![](media/274.png)
+Instruction block for going forward![](media/A250.png)
 
-Instruction block for **stepping back** ![](media/275.png)
+Instruction block for **stepping back** ![](media/A251.png)
 
-Instruction block for **turning left** ![](media/276.png)
+Instruction block for **turning left** ![](media/A252.png)
 
-Instruction block for **turning right** ![](media/277.png)
+Instruction block for **turning right** ![](media/A253.png)
 
-Instruction block for **stop**![](media/278.png)
+Instruction block for **stop**![](media/A254.png)
 
-Instruction block for **clearing screen**![](media/279.png)
+Instruction block for **clearing screen**![](media/A255.png)
 
-![](media/259.png)
+![](media/A235.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-（1).![](media/150.png)
+（1).![](media/A126.png)
 
-（2).![](media/264.png)
+（2).![](media/A240.png)
 
-(3).![](media/280.png)
+(3).![](media/A256.png)
 
 **Complete Test Code**
 
-![](media/281.png)
+![](media/A257.png)
 
 After uploading test code, the facial expression board shows these patterns orderly and repeats this sequence.
 
-![image-20250513092222972](media/282.png)![image-20250513092233711](media/283.png)![image-20250513092238552](media/284.png)
+![image-20250513092222972](media/A258.png)![image-20250513092233711](media/A259.png)![image-20250513092238552](media/A260.png)
 
 
 
 ### Project 10 Restricting Smart Car
 
-![](media/285.jpeg)
+![](media/A261.jpeg)
 
 **1.Description**
 
@@ -1287,15 +1289,15 @@ In this project, we look to combine the knowledge of a line tracking sensor and 
 
 **2.Flow Chart**
 
-![img](media/286.png)
+![img](media/A262.png)
 
 The specific logic of the restricting 4WD smart car is shown in the table.
 
-![Img](media/287.png)
+![Img](media/A263.png)
 
 **3.Wiring Diagram**
 
-![](media/288.png)
+![](media/A264.png)
 
 G, V, S1, S2 and S3 of the line tracking sensor are connected to G（GND), V（VCC), D11, D7 and D8 of the sensor expansion board.
 
@@ -1305,21 +1307,21 @@ The power is connected to the BAT port
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/289.png)
+(2).![](media/A265.png)
 
-(3).![](media/290.png)
+(3).![](media/A266.png)
 
-(4).![](media/291.png)
+(4).![](media/A267.png)
 
-(5).![](media/292.png)
+(5).![](media/A268.png)
 
-(6).![](media/293.png)
+(6).![](media/A269.png)
 
 **Complete Test Code**
 
-![KidsBlock Project-1747127137354](media/294.png)
+![KidsBlock Project-1747127137354](media/A270.png)
 
 
 
@@ -1330,7 +1332,7 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 ### Project 11 Line Tracking Smart Car
 
-![](media/295.png)
+![](media/A271.png)
 
 **1.Description**
 
@@ -1340,13 +1342,13 @@ In this project, we detect whether there is a black line at the bottom of the sm
 
 **2.Flow Chart**
 
-![img](media/296.png)
+![img](media/A272.png)
 
-![Img](media/297.png)
+![Img](media/A273.png)
 
 **3.Wiring Diagram**
 
-![](media/288.png)
+![](media/A264.png)
 
 G, V, S1, S2 and S3 of the line tracking sensor are connected to G（GND), V（VCC), D11, D7 and D8 of the sensor expansion board.
 
@@ -1356,23 +1358,23 @@ The power is connected to the BAT port
 
 You can drag blocks to edit. Blocks listed below are for your reference
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/298.png)
+(2).![](media/A274.png)
 
-(3).![](media/299.png)
+(3).![](media/A275.png)
 
-(4).![](media/292.png)
+(4).![](media/A268.png)
 
-(5).![](media/300.png)
+(5).![](media/A276.png)
 
 **Complete Test Code**
 
-![](media/301.png)
+![](media/A277.png)
 
-![](media/302.png)
+![](media/A278.png)
 
-![](media/303.png)
+![](media/A279.png)
 
 **5.Test Resul**
 
@@ -1380,7 +1382,7 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 ### Project 12 Ultrasonic Following Smart Car
 
-![](media/304.png)
+![](media/A280.png)
 
 **1.Description**
 
@@ -1388,7 +1390,7 @@ In this project, we will look to detect the distance between the 4WD smart car a
 
 **2.Flow Chart**
 
-![img](media/305.png)
+![img](media/A281.png)
 
 <table border="1">
 <tbody>
@@ -1448,7 +1450,7 @@ In this project, we will look to detect the distance between the 4WD smart car a
 
 **3.Wiring Diagram**
 
-![](media/306.png)
+![](media/A282.png)
 
 **Wiring up：**
 
@@ -1464,47 +1466,47 @@ In this project, we will look to detect the distance between the 4WD smart car a
 
 Before writing the code, it is necessary to import the library files of the ultrasonic sensor, 8x16 LED board and the servo. The specific steps are as follows: 
 
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for“Ultrasonic”sensor![](media/146.png)and click it. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for“Ultrasonic”sensor![](media/A122.png)and click it. 
 
 In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Ultrasonic**”sensor was added successfully. 
 
-![Img](media/307.png)
+![Img](media/A283.png)
 
-![](/media/cba9add907a200ae92f7a5cf2ef3df56.png)
+![](/media/A284.png)
 
 The 8x16 LED board and servo library files are added in the same way as the ultrasonic sensor.
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added “**Ultrasonic**”sensor,“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added “**Ultrasonic**”sensor,“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
 
-![](media/309.png)
+![](media/A285.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/310.png)
+(2).![](media/A286.png)
 
-(3).![](media/311.png)
+(3).![](media/A287.png)
 
-(4).![](media/312.png)
+(4).![](media/A288.png)
 
-(5).![](media/292.png)
+(5).![](media/A268.png)
 
-(6).![](media/313.png)
+(6).![](media/A289.png)
 
-(7).![](media/314.png)
+(7).![](media/A290.png)
 
-(8).![](media/315.png)
+(8).![](media/A291.png)
 
-(9).![](media/316.png)
+(9).![](media/A292.png)
 
 **Complete Test Code**
 
-![](media/317.png)
+![](media/A293.png)
 
-![](media/318.png)
+![](media/A294.png)
 
-![](media/319.png)
+![](media/A295.png)
 
 **5.Test Result**
 
@@ -1512,7 +1514,7 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 ### Project 13 Ultrasonic Obstacle Avoidance Smart Car
 
-![](media/320.png)
+![](media/A296.png)
 
 **1.Description**
 
@@ -1520,17 +1522,17 @@ In this project, we aim to make an ultrasonic obstacle avoidance smart car. We w
 
 **2.Flow Chart**
 
-![img](media/321.png)
+![img](media/A297.png)
 
 **The specific logic of ultrasonic obstacle avoidance smart car is shown below:**
 
-![Img](media/322.png)
+![Img](media/A298.png)
 
-![Img](media/323.png)
+![Img](media/A299.png)
 
 **3.Wiring Diagram**
 
-![](media/306.png)
+![](media/A282.png)
 
 1). GND, VCC, SDA and SCL of the 8\*8 LED board module are connected to G（GND), V（VCC), A4 and A5 of the expansion board.
 
@@ -1544,47 +1546,47 @@ In this project, we aim to make an ultrasonic obstacle avoidance smart car. We w
 
 Before writing the code, it is necessary to import the library files of the ultrasonic sensor , 8x16 LED board and the servo. The specific steps are as follows: 
 
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for“Ultrasonic”sensor ![](media/146.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Ultrasonic**”sensor was added successfully. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for“Ultrasonic”sensor ![](media/A122.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Ultrasonic**”sensor was added successfully. 
 
-![Img](media/324.png)
+![Img](media/A300.png)
 
-![](/media/cba9add907a200ae92f7a5cf2ef3df56.png)
+![](/media/A284.png)
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added “**Ultrasonic”sensor**,“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added “**Ultrasonic”sensor**,“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
 
-![](media/309.png)
+![](media/A285.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/325.png)
+(2).![](media/A301.png)
 
-(3).![](media/326.png)
+(3).![](media/A302.png)
 
-(4).![](media/311.png)
+(4).![](media/A287.png)
 
-(5).![](media/312.png)
+(5).![](media/A288.png)
 
-(6).![](media/292.png)
+(6).![](media/A268.png)
 
-(7).![](media/313.png)
+(7).![](media/A289.png)
 
-(8).![](media/316.png)
+(8).![](media/A292.png)
 
-(9).![](media/314.png)
+(9).![](media/A290.png)
 
-(10).![](media/315.png)
+(10).![](media/A291.png)
 
 **Complete Test Code**
 
-![](media/327.png)
+![](media/A303.png)
 
-![](media/328.png)
+![](media/A304.png)
 
-![](media/329.png)
+![](media/A305.png)
 
-![](media/330.png)
+![](media/A306.png)
 
 **5.Test Result**
 
@@ -1594,7 +1596,7 @@ The smart car moves forward and automatically avoids obstacles. When there is no
 
 ### Project 14 IR Remote Control Smart Car
 
-![](media/331.jpeg)
+![](media/A307.jpeg)
 
 **1.Description**
 
@@ -1602,24 +1604,24 @@ In this project, we will make an IR remote control smart car and press the butto
 
 **2.Flow Chart**
 
-![img](media/332.png)
+![img](media/A308.png)
 
 **The specific logic of IR remote control smart car is shown below:**
 
 | Initial setup                                               |           | LED board displays smile face                     |
 | ----------------------------------------------------------- | --------- | ------------------------------------------------- |
 | Remote control                                              | Key value | Key state                                         |
-| ![wps6-1747037981476-25](media/333.jpg) | FF629D    | Go front8*8 LED board shows front icon            |
-| ![wps7-1747037985784-27](media/334.jpg) | FFA857    | Back8*8 LED board shows back icon                 |
-| ![wps8](media/335.jpg)                  | FF22DD    | Rotate to left8*8 LED board shows leftward icon   |
-| ![wps9](media/336.jpg)                  | FFC23D    | Rotate to right8*8 LED board shows rightward icon |
-| ![wps10](media/337.jpg)                                 | FF02FD    | Stop8*8 LED board shows“STOP”                     |
+| ![wps6-1747037981476-25](media/A309.jpg) | FF629D    | Go front8*8 LED board shows front icon            |
+| ![wps7-1747037985784-27](media/A310.jpg) | FFA857    | Back8*8 LED board shows back icon                 |
+| ![wps8](media/A311.jpg)                  | FF22DD    | Rotate to left8*8 LED board shows leftward icon   |
+| ![wps9](media/A312.jpg)                  | FFC23D    | Rotate to right8*8 LED board shows rightward icon |
+| ![wps10](media/A313.jpg)                                 | FF02FD    | Stop8*8 LED board shows“STOP”                     |
 
 
 
 **3.Wiring Diagram**
 
-![](media/338.png)
+![](media/A314.png)
 
 1). GND, VCC, SDA and SCL of the 8\*8 LED board module are connected to G（GND), V（VCC), A4 and A5 of the expansion board.
     
@@ -1632,47 +1634,49 @@ In this project, we will make an IR remote control smart car and press the butto
 
 **4.Test Code**
 
+<span style="color: rgb(255, 76, 65);">Please note: The infrared module shown in the software demonstration is already integrated into the expansion board and is not supplied separately. Consequently, you will not find the module depicted in the image below within the product.![](media/A144.png)</span>
+
 Before writing the code, it is necessary to import the library files of the ultrasonic sensor, 8x16 LED board and the servo. The specific steps are as follows: 
     
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for“ir remote”sensor![](media/168.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**ir remote**”sensor was added successfully. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for“ir remote”sensor![](media/A144.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**ir remote**”sensor was added successfully. 
 
-![Img](media/339.png)
+![Img](media/A315.png)
 
-![](media/170.png)
+![](media/A146.png)
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added “**ir remote**”sensor,“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added “**ir remote**”sensor,“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
 
-![](media/340.png)
+![](media/A316.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/341.png)
+(2).![](media/A317.png)
 
-(3).![](media/342.png)
+(3).![](media/A318.png)
 
-(4).![](media/343.png)
+(4).![](media/A319.png)
 
-(5).![](media/311.png)
+(5).![](media/A287.png)
 
-(6).![](media/344.png)
+(6).![](media/A320.png)
 
-(7).![](media/315.png)
+(7).![](media/A291.png)
 
-(8).![](media/345.png)
+(8).![](media/A321.png)
 
 **Complete Test Code**
 
-![](media/346.png)
+![](media/A322.png)
 
-![](media/347.png)
+![](media/A323.png)
 
-![](media/348.png)
+![](media/A324.png)
 
-![](media/349.png)
+![](media/A325.png)
 
-![](media/350.png)
+![](media/A326.png)
 
 **5.Test Result**
 
@@ -1681,7 +1685,7 @@ After successfully uploading the code to the V4.0 board, connect the wirings acc
 
 ### Project 15 Bluetooth Control Smart Car
 
-![](media/351.jpeg)
+![](media/A327.jpeg)
 
 **1.Description**
 
@@ -1691,30 +1695,30 @@ We’ve learned the basic knowledge of Bluetooth. And in this lesson, we will ma
 
 | Key                                          | Function                          |
 | -------------------------------------------- | --------------------------------- |
-| ![wps14](media/209.jpg)                  | Pair DX-BT24 5.1 Bluetooth module |
-| ![wps15](media/210.jpg) | Disconnect Bluetooth              |
+| ![wps14](media/A185.jpg)                  | Pair DX-BT24 5.1 Bluetooth module |
+| ![wps15](media/A186.jpg) | Disconnect Bluetooth              |
 
 |                                                              | Control character                                            | Function                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![wps16](media/211.jpg)                 | Press: F  <br />Release: S                                   | Press the button, the car  goes front; <br />release to stop |
-| ![wps17](media/212.jpg)                 | Press: L  <br />Release: S                                   | Press the button, the car turns left; <br />release to stop  |
-| ![wps18](media/213.jpg)                 | Press: R  <br />Release: S                                   | Press the button, the car turns right; <br />release to stop |
-| ![wps19](media/214.jpg)                 | Press: B  <br />Release: S                                   | Press the button, the car goes back; <br />release to stop   |
-| ![wps20](media/215.jpg)                 | Press: “a”  <br />Release: “S”                               | Click to speed up(maximum:255)                               |
-| ![wps21](media/216.jpg)                 | Press: “d”  <br />Release: “S”                               | Click to slow down(minimum:0)                                |
-| ![wps22](media/217.jpg)                 | Click to start the gravity <br />sensing function of the <br />mobile phone: click again to <br />exit the gravity sensing control |                                                              |
-| ![wps23](media/218.jpg)                 | Click to send“X”,<br /> click again to send“S”               | Start line tracking function; <br />click again to exit      |
-| ![wps24](media/219.jpg)                 | Click to send“Y”, <br />click again to send“S”               | Start ultrasonic avoiding function;<br /> click again to exit |
-| ![wps25](media/220.jpg) | Click to send“U”, <br />click again to send“S”               | Start ultrasonic follow function;<br /> click  again to exit |
-| ![wps26](media/221.jpg)                 | Click to send“G”,<br />click again to send“S”                | Start restricting function;<br /> click  again to exit       |
+| ![wps16](media/A187.jpg)                 | Press: F  <br />Release: S                                   | Press the button, the car  goes front; <br />release to stop |
+| ![wps17](media/A188.jpg)                 | Press: L  <br />Release: S                                   | Press the button, the car turns left; <br />release to stop  |
+| ![wps18](media/A189.jpg)                 | Press: R  <br />Release: S                                   | Press the button, the car turns right; <br />release to stop |
+| ![wps19](media/A190.jpg)                 | Press: B  <br />Release: S                                   | Press the button, the car goes back; <br />release to stop   |
+| ![wps20](media/A191.jpg)                 | Press: “a”  <br />Release: “S”                               | Click to speed up(maximum:255)                               |
+| ![wps21](media/A192.jpg)                 | Press: “d”  <br />Release: “S”                               | Click to slow down(minimum:0)                                |
+| ![wps22](media/A193.jpg)                 | Click to start the gravity <br />sensing function of the <br />mobile phone: click again to <br />exit the gravity sensing control |                                                              |
+| ![wps23](media/A194.jpg)                 | Click to send“X”,<br /> click again to send“S”               | Start line tracking function; <br />click again to exit      |
+| ![wps24](media/A195.jpg)                 | Click to send“Y”, <br />click again to send“S”               | Start ultrasonic avoiding function;<br /> click again to exit |
+| ![wps25](media/A196.jpg) | Click to send“U”, <br />click again to send“S”               | Start ultrasonic follow function;<br /> click  again to exit |
+| ![wps26](media/A197.jpg)                 | Click to send“G”,<br />click again to send“S”                | Start restricting function;<br /> click  again to exit       |
 
 **3.Flow Chart**
 
-![img](media/352.png)
+![img](media/A328.png)
 
 **4.Wiring Diagram**
 
-![](media/353.png)
+![](media/A329.png)
 
 1). GND, VCC, SDA and SCL of the 8\*8 LED board are connected to G（GND), V（VCC), A4 and A5 of the expansion board.
     
@@ -1729,49 +1733,49 @@ We’ve learned the basic knowledge of Bluetooth. And in this lesson, we will ma
 
 Before writing the code, it is necessary to import the library files of the 8x16 LED board and the servo. The specific steps are as follows: 
     
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for“**Matrix 8\*16 Aip1640**”module![](media/260.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Matrix 8\*16 Aip1640**”module was added successfully. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for“**Matrix 8\*16 Aip1640**”module![](media/A236.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Matrix 8\*16 Aip1640**”module was added successfully. 
 
-![Img](media/261.png)  
+![Img](media/A237.png)  
 
-![](media/262.png)
+![](media/A238.png)
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
 
-![](media/354.png)
+![](media/A330.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference.
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/341.png)
+(2).![](media/A317.png)
 
-(3).![](media/355.png)
+(3).![](media/A331.png)
 
-(4).![](media/343.png)
+(4).![](media/A319.png)
 
-(5).![](media/311.png)
+(5).![](media/A287.png)
 
-(6).![](media/356.png)
+(6).![](media/A332.png)
 
-(7).![](media/357.png)
+(7).![](media/A333.png)
 
-(8).![](media/292.png)
+(8).![](media/A268.png)
 
-(9).![](media/358.png)
+(9).![](media/A334.png)
 
 **Complete Test Code**
 
 <span style="color: rgb(255, 76, 65);">**Note:** Before uploading the test code, you need to remove the Bluetooth module, otherwise the code will fail to be uploaded.Connect the Bluetooth module after uploading the code successfully.</span>
 
-![](media/359.png)
+![](media/A335.png)
 
-![](media/360.png)
+![](media/A336.png)
 
-![](media/361.png)
+![](media/A337.png)
 
-![](media/362.png)
+![](media/A338.png)
 
-![](media/363.png)
+![](media/A339.png)
 
 **6.Test Result**
 
@@ -1782,7 +1786,7 @@ Inset the BT module and open your cellphone to connect the Bluetooth to control 
 
 ### Project 16 Bluetooth Speed Control Smart Car
 
-![](media/351.jpeg)
+![](media/A327.jpeg)
 
 **1.Description**
 
@@ -1790,11 +1794,11 @@ In this project, we will use a Bluetooth to adjust the speed of the smart car. W
 
 **2.Flow Chart**
 
-![image-20250513095810478](media/364.png)
+![image-20250513095810478](media/A340.png)
 
 **3.Wiring Diagram**
 
-![](media/353.png)
+![](media/A329.png)
 
 1). GND, VCC, SDA and SCL of the 8\*8 LED board are connected to G（GND), V（VCC), A4 and A5 of the expansion board.
 
@@ -1808,64 +1812,64 @@ In this project, we will use a Bluetooth to adjust the speed of the smart car. W
 
 Before writing the code, it is necessary to import the library files of the 8x16 LED board and the servo. The specific steps are as follows: 
 
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for“Matrix 8\*16 Aip1640”module![](media/260.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Matrix 8\*16 Aip1640**”module was added successfully. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for“Matrix 8\*16 Aip1640”module![](media/A236.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Matrix 8\*16 Aip1640**”module was added successfully. 
 
-![Img](media/261.png)
+![Img](media/A237.png)
 
-![](media/262.png)
+![](media/A238.png)
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added “**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added “**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
 
-![](media/354.png)
+![](media/A330.png)
 
 You can drag blocks to edit. Blocks listed below are for your reference
 
-(1).![](media/150.png)
+(1).![](media/A126.png)
 
-(2).![](media/341.png)
+(2).![](media/A317.png)
 
-(3).![](media/355.png)
+(3).![](media/A331.png)
 
-(4).![](media/343.png)
+(4).![](media/A319.png)
 
-(5).![](media/311.png)
+(5).![](media/A287.png)
 
-(6).![](media/356.png)
+(6).![](media/A332.png)
 
-(7).![](media/357.png)
+(7).![](media/A333.png)
 
-(8).![](media/292.png)
+(8).![](media/A268.png)
 
-(9).![](media/358.png)
+(9).![](media/A334.png)
 
-(10).![](media/365.png)
+(10).![](media/A341.png)
 
 **Complete Test Code**
 
 <span style="color: rgb(255, 76, 65);">**Note:** Before uploading the test code, you need to remove the Bluetooth module, otherwise the code will fail to be uploaded.Connect the Bluetooth module after uploading the code successfully.</span>
 
 
-![](media/366.png)
+![](media/A342.png)
 
-![](media/367.png)
+![](media/A343.png)
 
-![](media/368.png)
+![](media/A344.png)
 
-![](media/369.png)
+![](media/A345.png)
 
-![](media/370.png)
+![](media/A346.png)
 
-![](media/370.png)
+![](media/A346.png)
 
 **5.Test Result**
 
 After successfully uploading the code to the V4.0 board, connect the wirings according to the wiring diagram, power on the external power then turn the DIP switch to ON. Pairing the APP with Bluetooth, the smart car can be controlled to move by the APP.
 
-Press![](media/371.png), the car will speed up, press ![](media/372.png), the car will slow down, and the 8\*16 LED board will display the corresponding status pattern of the smart car.
+Press![](media/A347.png), the car will speed up, press ![](media/A348.png), the car will slow down, and the 8\*16 LED board will display the corresponding status pattern of the smart car.
 
 ### Project 17 Multi-purpose Bluetooth Smart Car
 
-![](media/373.jpeg)
+![](media/A349.jpeg)
 
 **1.Description**
 
@@ -1873,11 +1877,11 @@ In previous projects, the car only performs a single function. However, in this 
 
 **2.Flow Chart**
 
-![](media/374.png)
+![](media/A350.png)
 
 **3.Wiring Diagram**
 
-![](media/375.png)
+![](media/A351.png)
 
 1). GND, VCC, SDA and SCL of the 8\*8 LED board are connected to G（GND), V（VCC), A4 and A5 of the expansion board.
 
@@ -1895,22 +1899,22 @@ In previous projects, the car only performs a single function. However, in this 
 
 Before writing the code, it is necessary to import the library files of the ultrasonic sensor, 8x16 LED board and the servo. The specific steps are as follows: 
 
-Click ![](media/53.png)to enter the extension library interface of sensors/modules/components, then search for“**Ultrasonic**”sensor![](media/146.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Ultrasonic**”sensor was added successfully. 
+Click ![](media/A29.png)to enter the extension library interface of sensors/modules/components, then search for“**Ultrasonic**”sensor![](media/A122.png)and click it. In this way, "**Not loaded**" changes to "**loaded**", indicating that the“**Ultrasonic**”sensor was added successfully. 
 
-![Img](media/324.png)
+![Img](media/A300.png)
 
-![](media/148.png)
+![](media/A124.png)
 
-Click ![](media/57.png)to return to the code editor interface, the instruction block of the added “**Ultrasonic**”sensor,“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
+Click ![](media/A33.png)to return to the code editor interface, the instruction block of the added “**Ultrasonic**”sensor,“**Matrix 8\*16 Aip1640**”module and “**Servo**”component can be seen in the module area. 
 
-![](media/309.png)
+![](media/A285.png)
 
 **Complete Test Code**
 
 <span style="color: rgb(255, 76, 65);">**Note:** Before uploading the test code, you need to remove the Bluetooth module, otherwise the code will fail to be uploaded.Connect the Bluetooth module after uploading the code successfully.</span>
 
 
-![](media/376.png)
+![](media/A352.png)
 
 **5.Test Result**
 
